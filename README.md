@@ -54,9 +54,6 @@ Autonomous AI agents, RAG pipelines, and intelligent systems build the core of m
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaitanya-Dev-AI&theme=radical" alt="GitHub Summary" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chaitanya-Dev-AI&theme=radical" alt="Repos Per Language" />
-</p>
-
 <p align="center">
   <!-- Streak Stats Card -->
   <img src="https://streak-stats.demolab.com/?user=Chaitanya-Dev-AI&theme=radical&hide_border=true" alt="GitHub Streak" />
