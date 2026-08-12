@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chaitanya </h1>
 <h3 align="center">Generative AI & Agentic AI Developer | Data Scientist</h3>
+<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line divider">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 # 💫 About Me
 Autonomous AI agents, RAG pipelines, and intelligent systems build the core of my focus as a **GenAI & Agentic AI Developer**. My expertise spans Data Science, Machine Learning, and Deep Learning, with hands-on practice building agentic workflows using frameworks like **AutoGen** and **CrewAI**.
