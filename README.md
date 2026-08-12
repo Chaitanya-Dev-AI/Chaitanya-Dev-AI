@@ -1,35 +1,71 @@
-h1 align="center">Hi 👋, I'm Chaitanya</h1>
-<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<h1 align="center">Hi 👋, I'm Chaitanya </h1>
+<h3 align="center">Generative AI & Agentic AI Developer | Data Scientist</h3>
 
-# 💫 About Me:
-As a Python Agentic Ai developer with six plus years of experience, I've honed my skills in designing and building the server-side of applications that power the web. <br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.<br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.<br>My deep understanding of software architecture principles has enabled me to create well-structured and maintainable codebases.<br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line divider">
+</p>
 
-![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
+# 💫 About Me
+Autonomous AI agents, RAG pipelines, and intelligent systems build the core of my focus as a **GenAI & Agentic AI Developer**. My expertise spans Data Science, Machine Learning, and Deep Learning, with hands-on practice building agentic workflows using frameworks like **AutoGen** and **CrewAI**.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+- 🔭 Currently working on: Multi-agent orchestration frameworks and custom RAG applications.
+- 🌱 Currently learning: **AWS** (Cloud Infrastructure) & **Django** (Web Backends).
+- ⚡ Tech Focus: Agentic AI, LLM fine-tuning, Neural Networks, and Scalable Backend Systems.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=447ff7&label=Visitor+count" alt="Visitor Count"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line divider">
+</p>
+
+# 💻 Tech Stack
+
+### 🧠 AI / ML & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🤖 Agentic AI & RAG Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/Microsoft_AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Vector DB](https://img.shields.io/badge/RAG_%26_Vector_DBs-FF4B4B?style=for-the-badge)
+
+### ⚙️ Languages & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ☁️ Cloud & DevOps (Learning)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line divider">
+</p>
 
-<!-- # 📊 GitHub Stats: -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=react&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> -->
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line divider">
+</p>
 
+### ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+</p>
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdityaKumar28&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line divider">
+</p>
