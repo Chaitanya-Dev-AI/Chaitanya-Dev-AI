@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chaitanya </h1>
 <h3 align="center">Generative AI & Agentic AI Developer | Data Scientist</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=447ff7&label=Visitor+count" alt="Visitor Count"/>
+</p>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
