@@ -52,13 +52,9 @@ Autonomous AI agents, RAG pipelines, and intelligent systems build the core of m
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <!-- Main Stats Card (Uses reliable Vercel mirror) -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chaitanya-Dev-AI&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chaitanya-Dev-AI&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaitanya-Dev-AI&theme=radical" alt="GitHub Summary" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chaitanya-Dev-AI&theme=radical" alt="Repos Per Language" />
 </p>
 
 <p align="center">
